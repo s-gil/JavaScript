@@ -96,3 +96,8 @@ let PricesRanges=[
     {label:'$$', tooltip:'Moderate', minPrice=11, maxPrice=20},
     {label:'$$$', tooltip:'Expensive', minPrice=21, maxPrice=60},
 ]
+
+//nueva modificacion
+let NewPricesRanges=[
+    {label:'$', tooltip:'Inexpensive', minPrice=25, maxPrice=50},
+]
